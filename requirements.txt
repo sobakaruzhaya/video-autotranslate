@@ -1,0 +1,7 @@
+argostranslate==1.9.1
+srt==3.5.3
+vosk==0.3.45
+TTS==0.20.3
+subtoaudio==0.1.5
+moviepy==1.0.3
+pydub==0.25.1
