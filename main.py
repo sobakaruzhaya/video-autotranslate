@@ -148,3 +148,6 @@ with open(filename, 'r', encoding="utf-8") as file:
         videoclip.audio = new_audioclip
         videoclip.write_videofile(f"out_videos/{video_name}.mp4")
 
+
+def main():
+   pass
