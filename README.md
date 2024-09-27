@@ -22,7 +22,8 @@ pip install -r requirements.txt
 
 # Как пользоваться
 1. Скачайте общедоступную [модель vosk](https://alphacephei.com/vosk/models/vosk-model-ru-0.10.zip) и перенесите папку model в директорию проекта
-2. Запустите main.py командой: python3 main.py
+2. Добавьте видео для перевода в директорию *videos*
+3. Запустите main.py командой: python3 main.py
 
 # Как работает
 Программа обрабатывает видео из папки *videos* переводя речь на видео на указанный язык в *data_csv/dataset.csv*
